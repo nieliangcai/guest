@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcf9c3a8-1784-412f-b9a0-04bd962b4ac3" name="Default" comment="" />
+    <list default="true" id="dcf9c3a8-1784-412f-b9a0-04bd962b4ac3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/基本信息/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/基本信息/组织机构/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/基本信息/组织机构/fixFunc.robot" />
+      <change beforePath="$PROJECT_DIR$/../FanmaoWebProject/Python-Automation" afterPath="$PROJECT_DIR$/../FanmaoWebProject/Python-Automation" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/Login_keywords.robot" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/Login_keywords.robot" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/jibenxinxi_keywords.robot" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/jibenxinxi_keywords.robot" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/Login.robot" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/Login.robot" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/jibenxinxi.robot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/log.html" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/log.html" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/output.xml" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/output.xml" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/report.html" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/report.html" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-13.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-14.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-15.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-9.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/jibenxinxi.robot" afterPath="$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/jibenxinxi.robot" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +76,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="re_request.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/urllib/re_request.py">
+      <file leaf-file-name="search.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Debug/search.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/mail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -59,24 +98,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GUI_Test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/urllib/tKinters/GUI_Test.py">
+      <file leaf-file-name="jibenxinxi.robot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/jibenxinxi.robot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="202">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="smallGame.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/Game/smallGame.py">
+      <file leaf-file-name="fixFunc.robot" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/基本信息/组织机构/fixFunc.robot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+            <state relative-caret-position="297">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#214#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.robot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/Login.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login_info.robot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/Login_info.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -128,9 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/test_caculator.py" />
-        <option value="$PROJECT_DIR$/sign/tests.py" />
-        <option value="$PROJECT_DIR$/test/demo.py" />
         <option value="$PROJECT_DIR$/test/interface_demo.py" />
         <option value="$PROJECT_DIR$/guest/urls.py" />
         <option value="$PROJECT_DIR$/sign/views_if.py" />
@@ -144,18 +200,13 @@
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/wait.py" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/test/case/demo1_test_search.py" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/API/debug.py" />
-        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/Login_keywords.robot" />
         <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/jibnexinxi.robot" />
-        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/jibenxinxi.robot" />
-        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/jibenxinxi_keywords.robot" />
         <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/jibenxinxi.robot" />
         <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/mail.py" />
-        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/Login.robot" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/app.py" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/login_page.py" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/test_page.py" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/test3000.py" />
-        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/Login_info.robot" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/build.xml" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/print_os.py" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/API/cnode3000.py" />
@@ -179,6 +230,14 @@
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/urllib/re_request.py" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/urllib/tKinters/GUI_Test.py" />
         <option value="$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/Game/smallGame.py" />
+        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/Login_info.robot" />
+        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/Login_keywords.robot" />
+        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/Login.robot" />
+        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/jibenxinxi.robot" />
+        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/jibenxinxi_keywords.robot" />
+        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/bumenguanli.robot" />
+        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/jibenxinxi/组织机构/fixFunc.robot" />
+        <option value="$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/基本信息/组织机构/fixFunc.robot" />
       </list>
     </option>
   </component>
@@ -210,64 +269,67 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="guest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UIFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UIFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Debug" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="NNUIFramework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UIFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Debug" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="NNUIFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RobotFramework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UIFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Debug" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="NNUIFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RobotFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Keywords" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UIFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="NNUIFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RobotFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Page" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UIFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="NNUIFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RobotFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Page" type="462c0819:PsiDirectoryNode" />
+              <item name="基本信息" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UIFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="NNUIFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RobotFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Page" type="462c0819:PsiDirectoryNode" />
+              <item name="基本信息" type="462c0819:PsiDirectoryNode" />
+              <item name="组织机构" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UIFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UIFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="log.py" type="8704e2dd:PyFileNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="NNUIFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RobotFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Variables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -279,12 +341,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\HP\Desktop\W3CSchool_git\UIFramework\Debug" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Desktop\guest\sign" />
       <recent name="D:\Python\Lib\site-packages\django\contrib\admin\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\guest\NNUIFramework\RobotFramework\Page\jibenxinxi\组织机构" />
+      <recent name="C:\Users\HP\Desktop\W3CSchool_git\UIFramework\Debug" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -300,32 +363,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.smallGame">
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NNUIFramework" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NNUIFramework" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-    </configuration>
     <configuration name="GUI_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -420,6 +457,32 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NNUIFramework" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NNUIFramework" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -614,7 +677,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4293478" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28731343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29371002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -653,146 +716,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Python/Lib/typing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="2290" column="8" lean-forward="false" selection-start-line="2290" selection-start-column="8" selection-end-line="2290" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="44" column="9" lean-forward="false" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="236" column="0" lean-forward="true" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2541">
-          <caret line="77" column="26" lean-forward="false" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/dictdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/if_else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/setuptools/command/easy_install.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="1284" column="45" lean-forward="false" selection-start-line="1284" selection-start-column="39" selection-end-line="1284" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/setuptools/command/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/easy_install.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/utils/mail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1881">
-          <caret line="63" column="19" lean-forward="false" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/utils/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#14#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/utils/HTMLTestRunner_PY3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1386">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/utils/file_reader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1287">
-          <caret line="41" column="70" lean-forward="false" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/utils/extractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/utils/email.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1462">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/utils/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="17" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/utils/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/utils/assertion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -804,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,7 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -820,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -828,9 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -838,7 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,9 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="22" column="47" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -856,7 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="11" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -864,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -872,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-527">
           <caret line="276" column="40" lean-forward="true" selection-start-line="276" selection-start-column="40" selection-end-line="276" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -880,7 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -888,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -904,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="231" column="7" lean-forward="false" selection-start-line="231" selection-start-column="7" selection-end-line="231" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -912,7 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="4885" column="8" lean-forward="false" selection-start-line="4885" selection-start-column="8" selection-end-line="4885" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -920,7 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -933,9 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-680">
           <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -943,9 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#29#53#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -998,17 +896,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="452" column="46" lean-forward="false" selection-start-line="452" selection-start-column="46" selection-end-line="452" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/urllib/re_request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="165">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1016,24 +910,159 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="2343" column="48" lean-forward="false" selection-start-line="2343" selection-start-column="48" selection-end-line="2343" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/urllib/tKinters/GUI_Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="429">
           <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../W3CSchool_git/UIFramework/Debug/demo/Game/smallGame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        <state relative-caret-position="475">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Debug/Arguments.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Debug/macth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Debug/search.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/Login_info.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/log.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/Login.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/results/selenium-screenshot-2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/SeleniumLibrary/keywords/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="778" column="46" lean-forward="false" selection-start-line="778" selection-start-column="46" selection-end-line="778" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/robotframework-ride-1.5.2.1/robotframework-ride-1.5.2.1/src/robotide/lib/robot/libraries/DeprecatedBuiltIn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="60" column="60" lean-forward="true" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/jibenxinxi.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/SeleniumLibrary/keywords/waiting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="213" column="8" lean-forward="false" selection-start-line="213" selection-start-column="8" selection-end-line="213" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Variables/jibenxinxi.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/robotframework-ride-1.5.2.1/robotframework-ride-1.5.2.1/src/robotide/lib/robot/libraries/BuiltIn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="794" column="14" lean-forward="true" selection-start-line="794" selection-start-column="14" selection-end-line="794" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/Login_keywords.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Keywords/jibenxinxi_keywords.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="110" column="37" lean-forward="false" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NNUIFramework/RobotFramework/Page/基本信息/组织机构/fixFunc.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#214#0" expanded="true" />
           </folding>
         </state>
       </provider>
